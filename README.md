@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bibliografía:
 
-Things you may want to cover:
+Modelo general para construir una API en rails 5: https://blog.codeship.com/building-a-json-api-with-rails-5/
 
-* Ruby version
+Manejo de las respuestas json: https://quickleft.com/blog/keeping-your-json-response-lean-in-rails/
 
-* System dependencies
+Manejo de errores en una API, the rails way: https://blog.rebased.pl/2016/11/07/api-error-handling.html
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
